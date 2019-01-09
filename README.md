@@ -1,16 +1,14 @@
 # Point Blank Squadron Charter
 
-1. Mission Statement - Pointblank is a gaming community that focuses primarily on the IL-2 Great Battles series.
+1. **Mission Statement** - Pointblank is a gaming community that focuses primarily on the IL-2 Great Battles series.
     1. Pointblank is dedicated to our core values: courtesy, friendship, respect,  cooperation, and fun.
     2. Pointblank members have a voice in direction and administration of the community.
     3. Pointblank values freedom of speech: members voicing their opinions in a courteous and respectful manner will not be censored. 
     4. Pointblank operates with transparency in accordance to the principles and rules defined in this document. 
-Operations
-These outline the community involvement in decision-making processes.
-General Motions
-These are motions which are available to all members of the community.  They include: Motions to accept a non-member into membership, voting on any motions passed down from Officers.
-General motions will be initiated by the procedure outlined in the SOPs.
-Members are granted one (1) vote in any motion available to them.
+2. **Operations** - These outline the community involvement in decision-making processes.
+    1. **General Motions** - These are motions which are available to all members of the community.  They include: Motions to accept a non-member into membership, voting on any motions passed down from Officers.
+        1. General motions will be initiated by the procedure outlined in the SOPs.
+        2. Members are granted one (1) vote in any motion available to them.
 Motions last for seven (7) days, and require a (2/3) majority to pass.
 Motions to accept a non-member into membership last (28) days or until they are valid, whichever comes first.
 To be valid motions must involve a minimum of 20% of membership participation or have at least215of the membership vote for or 215vote against the content of the motion.
