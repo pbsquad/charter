@@ -5,6 +5,7 @@
     2. Pointblank members have a voice in direction and administration of the community.
     3. Pointblank values freedom of speech: members voicing their opinions in a courteous and respectful manner will not be censored. 
     4. Pointblank operates with transparency in accordance to the principles and rules defined in this document. 
+---
 2. **Operations** - *These outline the community involvement in decision-making processes.*
     1. **General Motions** - *These are motions which are available to all members of the community.  They include: Motions to accept a non-member into membership, voting on any motions passed down from Officers.*
         1. General motions will be initiated by the procedure outlined in the SOPs.
