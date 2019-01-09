@@ -10,16 +10,16 @@
     1. **General Motions** - *These are motions which are available to all members of the community.  They include: Motions to accept a non-member into membership, voting on any motions passed down from Officers.*
         1. General motions will be initiated by the procedure outlined in the SOPs.
         2. Members are granted one (1) vote in any motion available to them.
-        3. Motions last for seven (7) days, and require a (2/3) majority to pass.
+        3. Motions last for seven (7) days, and require a (2&frasl;3) majority to pass.
         4. Motions to accept a non-member into membership last (28) days or until they are valid, whichever comes first.
-        5. To be valid motions must involve a minimum of 20% of membership participation or have at least (2&frasl;15) of the membership vote for or (2/15) vote against the content of the motion.
+        5. To be valid motions must involve a minimum of 20% of membership participation or have at least (2&frasl;15) of the membership vote for or (2&frasl;15) vote against the content of the motion.
         6. Members abstaining from a motion will not be counted as for or against it
         7. Votes will be tallied anonymously when able.
         8. Failed motions may not be resubmitted for a period of four (4) weeks after their conclusion.
     2. **Officer Motions** - *These are motions initiated by Officers and include: Motions to add an officer, motions to initiate a General motion for member votes, Changes to the structure, organization or charter, and other administrative decisions, validation of disciplinary actions.*
         1. Officer motions will be initiated by the procedure outlined in the SOPs.
         2. Officers are granted one (1) vote in any motion available to them.
-        3. Officer motions last for seven (7) days, and require a (2/3) majority of all officers who are not on leave of absence to pass. In the case of a motion to add an officer, a vote will not start until sufficient discussion has been had regarding an applicant (7 days).
+        3. Officer motions last for seven (7) days, and require a (2&frasl;3) majority of all officers who are not on leave of absence to pass. In the case of a motion to add an officer, a vote will not start until sufficient discussion has been had regarding an applicant (7 days).
         4. Officers abstaining from a motion will not be counted as for or against it.
         5. Votes will be tallied publicly. Anonymously in the case of voting for other officers.
         6. Failed motions may not be resubmitted for a period of two (2) weeks after their conclusion.
