@@ -61,7 +61,7 @@
 ---
 5. **Standard Operating Procedures** - *These serve as a guide for the operations within administrative categories of expertise.  The SOP may contain the appropriate procedures, expectations and documentation for various administrative work not outlined in this document*
     1. It is the responsibility of the primary administrative Officer overseeing an area of expertise to maintain an updated SOP for their particular section as required.
-    2. Member addition
+    2. **Member addition**
         1. Any non-member may apply for membership by messaging any of the officers and declaring their wish to join the squadron.
         2. It is the responsibility of the messaged officers to ensure that the application is acknowledged, the applicant receives the prospect role, their application is announced in the prospect discussion channel and a general motion for the prospects membership is initiated.
         3. Recommended passing criteria that adhere to the wishes of the members must be maintained by the overseeing officers.
@@ -78,6 +78,6 @@
         5. **Communications Administrator:** Moderates the squadrons discord, teamspeak, forum, etc.  Handles disputes and provides mediation when necessary.
         6. **Server Administrator:** Oversees and manages the hosting of the squadron website, teamspeak, forum, IL2 server, etc.
 ---
-6. Violations
+6. **Violations**
     1. An officer only channel may be used for discussing problematic behaviour. Once sufficient evidence or accountability has been established toward this behavior, administrative action can be taken. Exceptions, are trolls, spammers, racists/nazis, etc. who may be banned immediately by any admin. Immediate bans must be upheld by an officer motion raised immediately following the ban.
     2. Members or Officers knowingly acting against the provisions set forth by this charter, or attempting to supplant or otherwise thwart the will of this document will be dealt with in the strictest manner.  After discussion, an officer vote regarding an offender will be conducted, to determine an appropriate response. The officer/member in question will not be able to vote, but may participate in the discussion.
