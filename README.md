@@ -12,7 +12,7 @@
         2. Members are granted one (1) vote in any motion available to them.
         3. Motions last for seven (7) days, and require a (2/3) majority to pass.
         4. Motions to accept a non-member into membership last (28) days or until they are valid, whichever comes first.
-        5. To be valid motions must involve a minimum of 20% of membership participation or have at least (2/15) of the membership vote for or (2/15) vote against the content of the motion.
+        5. To be valid motions must involve a minimum of 20<sup>%</sup> of membership participation or have at least (2/15) of the membership vote for or (2/15) vote against the content of the motion.
         6. Members abstaining from a motion will not be counted as for or against it
         7. Votes will be tallied anonymously when able.
         8. Failed motions may not be resubmitted for a period of four (4) weeks after their conclusion.
