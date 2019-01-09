@@ -1,10 +1,10 @@
 # Point Blank Squadron Charter
 
 1. Mission Statement - Pointblank is a gaming community that focuses primarily on the IL-2 Great Battles series.
-    2. Pointblank is dedicated to our core values: courtesy, friendship, respect,  cooperation, and fun.
-    3. Pointblank members have a voice in direction and administration of the community.
-    4. Pointblank values freedom of speech: members voicing their opinions in a courteous and respectful manner will not be censored. 
-    5. Pointblank operates with transparency in accordance to the principles and rules defined in this document. 
+    1. Pointblank is dedicated to our core values: courtesy, friendship, respect,  cooperation, and fun.
+    2. Pointblank members have a voice in direction and administration of the community.
+    3. Pointblank values freedom of speech: members voicing their opinions in a courteous and respectful manner will not be censored. 
+    4. Pointblank operates with transparency in accordance to the principles and rules defined in this document. 
 Operations
 These outline the community involvement in decision-making processes.
 General Motions
