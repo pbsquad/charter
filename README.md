@@ -1,11 +1,9 @@
 # Point Blank Squadron Charter
----
 1. **Mission Statement** - *Pointblank is a gaming community that focuses primarily on the IL-2 Great Battles series.*
     1. Pointblank is dedicated to our core values: courtesy, friendship, respect,  cooperation, and fun.
     2. Pointblank members have a voice in direction and administration of the community.
     3. Pointblank values freedom of speech: members voicing their opinions in a courteous and respectful manner will not be censored. 
     4. Pointblank operates with transparency in accordance to the principles and rules defined in this document. 
----
 2. **Operations** - *These outline the community involvement in decision-making processes.*
     1. **General Motions** - *These are motions which are available to all members of the community.  They include: Motions to accept a non-member into membership, voting on any motions passed down from Officers.*
         1. General motions will be initiated by the procedure outlined in the SOPs.
@@ -25,7 +23,6 @@
         6. Failed motions may not be resubmitted for a period of two (2) weeks after their conclusion.
     3. **Special Motions** - *These are motions not falling within the scope of a General or Officer motion.  Special provisions specific to these motions may be listed here in the future.*
     4. No members or officer may vote in a motion of which they are the subject.
----
 3. **Rules**
     1. Be respectful
     2. No cheating or hacking
@@ -34,7 +31,6 @@
     5. Hosts of official events may establish a chain of command, which will be respected during the event. 
     6. These rules shall apply equally across all mediums and services.
     7. All administrative operations will be public.  While some discussions may be private, decisions and official actions regarding them shall be publicly displayed.
----
 4. **Personnel** - *All members and participants of the community are expected to adhere to the rules provided above.  Consequences for breaking them are detailed in the “Violations” section below.  All participants of the community are welcome to partake in any general event, and are welcome to use the text and voice channels available to them.*
     1. **Non-members/Applicants**
         1. Non-members are not represented within the administration of the community.  However, they are free to participate and discuss and are valued additions.
@@ -58,7 +54,6 @@
         5. May also be an "admin" which serves an Administrative function in the unit, be it for discord, servers or other areas, and are therefore required to maintain specific documents as outlined in section 5. SOPs.
         6. May make use of a private channel when suitable for specific situations
         7. May be removed by officer motion for violation of the charter or for a period of inactivity exceeding 90 days unless a leave of absence has been declared, or by lack of any active function, role, or duty
----
 5. **Standard Operating Procedures** - *These serve as a guide for the operations within administrative categories of expertise.  The SOP may contain the appropriate procedures, expectations and documentation for various administrative work not outlined in this document*
     1. It is the responsibility of the primary administrative Officer overseeing an area of expertise to maintain an updated SOP for their particular section as required.
     2. **Member addition**
@@ -77,7 +72,6 @@
         4. **Content Creator:** creates missions, tools, skins, documentation, etc. for the squadron.
         5. **Communications Administrator:** Moderates the squadrons discord, teamspeak, forum, etc.  Handles disputes and provides mediation when necessary.
         6. **Server Administrator:** Oversees and manages the hosting of the squadron website, teamspeak, forum, IL2 server, etc.
----
 6. **Violations**
     1. An officer only channel may be used for discussing problematic behaviour. Once sufficient evidence or accountability has been established toward this behavior, administrative action can be taken. Exceptions, are trolls, spammers, racists/nazis, etc. who may be banned immediately by any admin. Immediate bans must be upheld by an officer motion raised immediately following the ban.
     2. Members or Officers knowingly acting against the provisions set forth by this charter, or attempting to supplant or otherwise thwart the will of this document will be dealt with in the strictest manner.  After discussion, an officer vote regarding an offender will be conducted, to determine an appropriate response. The officer/member in question will not be able to vote, but may participate in the discussion.
